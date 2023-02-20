@@ -1,0 +1,94 @@
+FITNESS TERMS
+
+BMI
+Body mass index is a value derived from the mass and height of a person. 
+The BMI is defined as the body mass divided by the square of the body height, 
+and is expressed in units of kg/m², resulting from abundance in kilograms and height in meters.
+USA Formula: weight (lb) / [height (in)]2 x 703
+Then, calculate BMI by dividing weight in pounds (lb) by height in inches (in) squared 
+and multiplying by a conversion factor of 703.
+Underweight = 18.5
+Normal weight = 18.5–24.9
+Overweight = 25–29.9
+Obesity = BMI of 30 or greater
+
+BMR
+Basal metabolic rate (BMR) is the total number of calories your body needs to perform essential, life-sustaining functions. 
+These basal functions include circulation, breathing, cell production, nutrient processing, protein synthesis, and ion transport. 
+You can calculate the basal metabolic rate using a mathematical formula. 
+Knowing your basal metabolic rate helps determine the estimated baseline amount of calories your body 
+requires to function. This works as a starting point to determine how many calories you may want to consume 
+based on your goals. Below, learn more about the basal metabolic rate and how it applies to you.
+The basal metabolic rate measures the calories needed to perform your body's most basic (basal) functions, 
+like breathing, circulation, and cell production. BMR is most accurately measured in a lab setting under 
+very restrictive conditions. 
+Resting metabolic rate is a measurement of the number of calories that your body burns at rest. 
+Resting metabolic rate is usually measured in the morning before you eat or exercise and 
+after a whole night of restful sleep. 
+How to estimate your BMR 
+One popular way to estimate BMR is through the Harris-Benedict formula, which takes into account 
+weight, height, age, and gender.
+Women:
+BMR = 655 + (9.6 × weight in kg) + (1.8 × height in cm) – (4.7 × age in years)
+Men:
+BMR = 66 + (13.7 × weight in kg) + (5 × height in cm) – (6.8 × age in years)
+
+Macro
+"macro" is short for macronutrients.
+In the context of health and fitness, macronutrients are most often defined as the chemical compounds humans consume
+in large quantities that provide bulk energy. Specifically, they refer to carbohydrates, proteins, and fats. 
+Some definitions also include water, air, calcium, sodium, chloride ions, other substances, and more specific macronutrients since they are needed in significant quantities by the human body. 
+This calculator only calculates daily carbohydrate, protein, and fat needs.
+It's Beneficial to calculate Macro to know how much you need (Protein, Carbs, Fat) Daily to reach your goal
+and the body you dream of. It's Calculated by: Age, Gender, Height, Weight, Activity, and Goal.
+
+Calories
+A calorie is a unit of energy. For historical reasons, two main definitions of "calorie" are widely used. 
+The large calorie, food calorie, or kilogram calorie was initially defined as the amount of heat 
+needed to raise the temperature of one kilogram of water by one degree Celsius.
+
+Protein
+Protein is an essential macronutrient.
+Protein is found throughout the body—in muscle, bone, skin, hair, 
+and virtually every other body part or tissue.
+Protein is the building block of your muscles. Therefore, eating adequate amounts of protein 
+helps you maintain your muscle mass and promotes muscle growth when you do strength training. 
+Numerous studies show that eating plenty of protein can help increase muscle mass and strength.
+The National Academy of Medicine recommends that adults get a minimum of 0.8 grams of protein 
+for every kilogram daily, or just over 7 grams for every 20 pounds.
+For a 140-pound person, that means about 50 grams of protein each day.
+
+Carbs
+Carbohydrates are a macronutrient — one of the three primary ways the body uses energy. 
+Carbs are starches, sugars, and fibers found in grains, vegetables, fruit, and milk products. 
+While carbohydrates are essential to a healthy diet, they can be harmful in excess.
+These eight foods are some of the high-carbohydrate foods that should be avoided:
+Soft Pretzel, Processed Cereal, Canned Fruit, Doughnuts, Soda, Potato or Corn Chips, Gummy Candy, French Fries.
+Healthful low-carb Foods:
+Eggs, Meat, beef, Chicken, Seafood, Fish, Dark Chocolate, Broccoli, Tomatoes, Onions, Cauliflower, Spinach
+Zucchini, Cabbage, Avocado, Olives, Lemons, Kiwis, Oranges, Raspberries, Cheese, Full-Fat Yogurt, and Butter.
+
+FATS
+Healthy fat helps our bodies function in terms of:
+energy
+hormone production
+nutrient absorption
+cell growth
+insulation from cold
+organ protection
+Two types:
+Saturated: This is the so-called "bad" fat. 
+It's primarily found in animal products like beef, pork, 
+and high-fat dairy foods, like butter, margarine, cream, and cheese.
+Unsaturated: 
+This is the healthy kind, and there are two types: 
+1. Monounsaturated fats are found in high concentrations in:
+Olive, peanut, and canola oils, Avocados, 
+Nuts such as almonds, hazelnuts, and pecans
+Seeds such as pumpkin and sesame seeds.
+2. Polyunsaturated fats are found in high concentrations in:
+Sunflower, corn, soybean, and flaxseed oils, Walnuts, Flax seeds, Fish, Canola oil – 
+though higher in monounsaturated fat, it's also a good source of polyunsaturated fat.
+Omega-3 fats are an important type of polyunsaturated fat. The body can't make these, so they must come from food.
+An excellent way to get omega-3 fats is by eating fish 2-3 times a week.
+Good plant sources of omega-3 fats include flax seeds, walnuts, and canola or soybean oil.
